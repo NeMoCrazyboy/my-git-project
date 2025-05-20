@@ -7,8 +7,6 @@ koplolmomkat@gmail.com
 
 - Список 1
 - Список 2
-
 ```python
 print("Пример кода на Python")
-```
-Изменения из main
+
