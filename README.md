@@ -11,3 +11,4 @@ koplolmomkat@gmail.com
 ```python
 print("Пример кода на Python")
 ```
+Изменения из ветки conflict-branch
